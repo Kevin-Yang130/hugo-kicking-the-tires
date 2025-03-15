@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SnapCal Site</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on SnapCal Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Mar 2025 17:02:28 -0400</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Mar 2025 17:34:39 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Résumé</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Sat, 15 Mar 2025 17:34:39 -0400</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;SnapCal&amp;rsquo;s Résumé is shown in here.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Great application for calorie tracking.&lt;/li&gt;&#xA;&lt;li&gt;Time saver and no need to search for each individual ingredient.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>About</title>
-      <link>https://example.org/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 15 Mar 2025 17:02:28 -0400</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;This is the the &amp;ldquo;About Me&amp;rdquo; me page for SnapCal&lt;/p&gt;</description>
     </item>
   </channel>
